@@ -1,3 +1,9 @@
+## Why need this function
+
+- You must to have this function while building document management system.
+- Protect  upload secret file avoid access secret these files direct.
+- Transfer file safty
+
 ## How to use
 
 ### CLi
