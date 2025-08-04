@@ -1,3 +1,7 @@
+# golang Filecrypt
+
+This proeject is a MVP.
+
 ## Why need this function
 
 - You must to have this function while building document management system.
@@ -41,3 +45,9 @@ Server side will record this encrypt string and mapping it's upload file name in
 ### Download
 
 When you download with encrypt string, server will find out and decrypt it then transfer to you with upload file name.
+
+## Future
+
+- Distributed file path plan for more and more file
+- Design more elasticity and Scalability access/share permission
+  
