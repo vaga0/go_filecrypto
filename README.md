@@ -2,7 +2,7 @@
 
 ### CLi
 
-switch to your directory then run main.go
+Switch to your directory then run main.go
 ```bash
 go run main.go
 ```
